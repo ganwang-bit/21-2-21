@@ -1,0 +1,25 @@
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("Hello world!\n");
+//    return 0;
+//}
+//#include<stdio.h>
+//#include<time.h>
+//int main()
+//{
+//    time_t tm=time(NULL);
+//    printf("%s",ctime(&tm));
+//    return 0;
+//}
+//#include<setjmp.h>
+//#include<signal.h>
+#include<signal.h>
+#include<stdio.h>
+int main()
+{
+    
+    return 0;
+}
